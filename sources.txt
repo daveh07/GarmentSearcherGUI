@@ -1,0 +1,5 @@
+westworld_.jpg: https://walyou.com/best-westworld-hoodie/ 
+breakingBad_.jpg: https://www.kingsize.com.au/estore/style/hkbbad.aspx
+keepCalm_.jpg: https://www.redbubble.com/i/t-shirt/Keep-Calm-And-Code-On-Coding-Programming-Shirt-by-ElkeD/26785696.FB110
+walkingDead_.jpg: https://teeketi.com/en/product/the-walking-dead-hoodie-2/
+
